@@ -1,0 +1,115 @@
+# TypeScript
+
+A structured 5-day hands-on journey to learn and implement TypeScript from fundamentals to real-world application patterns.
+
+The goal of this repository is to build a strong practical understanding of TypeScript through small implementations, examples, and a final mini-project.
+
+---
+
+## 🚀 Tech Stack
+
+- TypeScript
+- JavaScript
+- Node.js
+- npm
+
+---
+
+## 📚 Learning Roadmap
+
+### Day 01 — TypeScript Basics
+
+- Variables and Type Annotations
+- Primitive Types
+- Type Inference
+- Arrays
+- Tuples
+- Functions
+- `any`
+- `unknown`
+- `never`
+
+**Status:** ✅ Completed
+
+---
+
+### Day 02 — Functions & Objects
+
+- Function Types
+- Optional Parameters
+- Default Parameters
+- Interfaces
+- Type Aliases
+- Object Types
+- Readonly Properties
+- `keyof`
+
+**Status:** ⏳ Upcoming
+
+---
+
+### Day 03 — Advanced Types
+
+- Union Types
+- Intersection Types
+- Literal Types
+- Enums
+- Generics
+- Generic Constraints
+- Type Guards
+- `typeof`
+- `instanceof`
+
+**Status:** ⏳ Upcoming
+
+---
+
+### Day 04 — OOP & Modules
+
+- Classes
+- Constructors
+- Access Modifiers
+- Encapsulation
+- Inheritance
+- Abstract Classes
+- Interfaces with Classes
+- Modules
+- Import / Export
+
+**Status:** ⏳ Upcoming
+
+---
+
+### Day 05 — Real-World TypeScript
+
+- Utility Types
+- `Partial`
+- `Pick`
+- `Omit`
+- `Record`
+- API Response Typing
+- Generic API Responses
+- Error Handling
+- Real-world TypeScript Patterns
+- Mini Project
+
+**Status:** ⏳ Upcoming
+
+---
+
+## 📂 Repository Structure
+
+```text
+typescript/
+│
+├── day-01-basics/
+├── day-02-functions-and-objects/
+├── day-03-advanced-types/
+├── day-04-oop-and-modules/
+├── day-05-real-world/
+│
+├── README.md
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── .gitignore
