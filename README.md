@@ -38,13 +38,16 @@ The goal of this repository is to build a strong practical understanding of Type
 - Function Types
 - Optional Parameters
 - Default Parameters
+- Rest Parameters
 - Interfaces
 - Type Aliases
-- Object Types
+- Union Types
 - Readonly Properties
+- Object Types
+- Nested Objects
 - `keyof`
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ---
 
