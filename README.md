@@ -59,12 +59,14 @@ The goal of this repository is to build a strong practical understanding of Type
 - Enums
 - Generics
 - Generic Constraints
+- `keyof`
+- Type Narrowing
 - Type Guards
 - `typeof`
 - `instanceof`
+- Custom Type Guards
 
-**Status:** ⏳ Upcoming
-
+**Status:** ✅ Completed
 ---
 
 ### Day 04 — OOP & Modules
