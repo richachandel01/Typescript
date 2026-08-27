@@ -73,16 +73,19 @@ The goal of this repository is to build a strong practical understanding of Type
 
 - Classes
 - Constructors
-- Access Modifiers
+- Parameter Properties
+- Public / Private / Protected
 - Encapsulation
 - Inheritance
+- `extends`
+- `super`
 - Abstract Classes
-- Interfaces with Classes
+- Abstract Methods
+- Polymorphism
 - Modules
-- Import / Export
+- Export
 
-**Status:** ⏳ Upcoming
-
+**Status:** ✅ Completed
 ---
 
 ### Day 05 — Real-World TypeScript
