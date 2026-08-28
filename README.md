@@ -90,18 +90,21 @@ The goal of this repository is to build a strong practical understanding of Type
 
 ### Day 05 — Real-World TypeScript
 
-- Utility Types
-- `Partial`
-- `Pick`
-- `Omit`
-- `Record`
-- API Response Typing
-- Generic API Responses
-- Error Handling
-- Real-world TypeScript Patterns
-- Mini Project
+* Utility Types
+* `Partial`
+* `Pick`
+* `Omit`
+* `Record`
+* API Response Typing
+* Generic API Responses
+* Error Handling
+* Real-world TypeScript Patterns
+* Generic Repository
+* CRUD Operations
+* Mini Project — Task Management System
 
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
+
 
 ---
 
